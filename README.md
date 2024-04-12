@@ -1,3 +1,3 @@
 # contador-simples-js
 
-Primeiro trabalho da oficina de React 
+Primeiro trabalho da oficina de React nova alteração
